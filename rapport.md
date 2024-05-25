@@ -4,18 +4,8 @@
 
 Brève description de l'objectif du projet.
 
-## Méthodologie
-
-Détails sur la méthodologie utilisée dans le projet.
-
-## Résultats
-
-Résultats obtenus au cours du projet.
-
-## Conclusion
-
-Résumé des conclusions et des recommandations.
-
-## Annexes
-
-Informations supplémentaires, données brutes, etc.
+## les captures de l'application 
+<img src="captures/1.png">
+<img src="captures/2.png">
+<img src="captures/3.png">
+<img src="captures/4.png">
