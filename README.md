@@ -1,5 +1,7 @@
 # Rapport de Projet
 
+### Salima ELHOU   sdia 1
+
 ## Introduction
 
 une application web Angular qui permet de gérer des produits avec un backend basé sur Json-server
