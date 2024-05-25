@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Brève description de l'objectif du projet.
+une application web Angular qui permet de gérer des produits avec un backend basé sur Json-server
 
 ## les captures de l'application 
-<img src="captures/1.png">
-<img src="captures/2.png">
-<img src="captures/3.png">
-<img src="captures/4.png">
+<img src="Captures/1.png">
+<img src="Captures/2.png">
+<img src="Captures/3.png">
+<img src="Captures/4.png">
